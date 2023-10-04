@@ -18,6 +18,8 @@ icon:   img/uol_logo.png
 
 # Grundlegendes zur elektrischen Energie
 
+![](img/logoblock.png)
+
 **Lernziele**
 
 Nach Bearbeitung dieses Objekts...
@@ -192,3 +194,19 @@ Im Gegensatz zu unserem vereinfachten Beispiel treten Wirk- und Blindleistung ü
 [Übersicht zu Blindleistung](https://www.sma.de/partner/expertenwissen/sma-verschiebt-die-phase.html)
 
 K. Heuck, K.-D. Dettmann, S. Schulz: Elektrische Energieversorgung (Erzeugung, Übertragung und Verteilung elektrischer Energie für Studium und Praxis), Springer Vieweg, 9. Auflage, 2013
+
+## Impressum
+
+![](img/logoblock.png)
+
+**Titel:**	Einführung in die Energieinformatik - Grundlegendes zur elektrischen Energie
+
+**Autor\*in:**	Prof. Dr. Astrid Nieße
+
+**Herausgeber:**	Carl von Ossietzky Universität Oldenburg, [C3L – Center für lebenslanges Lernen](www.uol.de/c3l)
+
+**Copyright:**	CC-BY 4.0
+
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 Lizenz. Ausgenommen von dieser Lizenz sind Organisationslogos und falls gekennzeichnet einzelne Abbildungen oder sonstiges Drittmaterial sowie Bilder, auf denen Personen gezeigt werden.
+
+**Zitierhinweis:**	Nieße, A. (2023): Einführung in die Energieinformatik - Grundlegendes zur elektrischen Energie. Carl von Ossietzky Universität Oldenburg, abrufbar unter www.twillo.de 

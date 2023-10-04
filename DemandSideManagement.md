@@ -17,6 +17,8 @@ icon:   img/uol_logo.png
 
 # Demand Side Management (DSM)
 
+![](img/logoblock.png)
+
 **Lernziele**
 
 Nach Bearbeitung dieses Lernobjekts...
@@ -167,3 +169,19 @@ Die Maßnahmen des Physical Demand Response stellen bindende Vorgaben zur Beeinf
 - Peter Palensky, D. D. (03. 08 2011). Demand Side Management: Demand Response, Intelligent Energy Systems, and Smart Loads. IEEE Transactions on Industrial Informatics.
 - [Schlereth, Christian; Skiera, Bernd; Schulz, Fabian (2018): Why do Consumers prefer Static instead of Dynamic Pricing Plans? An Empirical Study for a better Understanding of the Low Preferences for Time-Variant Pricing Plans. March 2018, European Journal of Operational Research](https://doi.org/10.1016/j.ejor.2018.03.033)
 - [StromNZV](https://www.gesetze-im-internet.de/stromnzv/__12.html)
+
+## Impressum
+
+![](img/logoblock.png)
+
+**Titel:**	Einführung in die Energieinformatik - Demand Side Management
+
+**Autor\*in:**	Prof. Dr. Astrid Nieße
+
+**Herausgeber:**	Carl von Ossietzky Universität Oldenburg, [C3L – Center für lebenslanges Lernen](www.uol.de/c3l)
+
+**Copyright:**	CC-BY 4.0
+
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 Lizenz. Ausgenommen von dieser Lizenz sind Organisationslogos und falls gekennzeichnet einzelne Abbildungen oder sonstiges Drittmaterial sowie Bilder, auf denen Personen gezeigt werden.
+
+**Zitierhinweis:**	Nieße, A. (2023): Einführung in die Energieinformatik - Demand Side Management. Carl von Ossietzky Universität Oldenburg, abrufbar unter www.twillo.de 

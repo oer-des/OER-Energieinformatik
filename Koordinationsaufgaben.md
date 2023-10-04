@@ -18,6 +18,8 @@ icon:   img/uol_logo.png
 
 # Koordinationsaufgaben
 
+![](img/logoblock.png)
+
 **Lernziele**
 
 Nach Bearbeitung dieses Lernobjekts...
@@ -116,3 +118,19 @@ Der gesamte Ablauf ist in Abbildung 6 dargestellt.
 [[ ]] Der Bilanzkreisverantwortliche ist dafür verantwortlich, dass die Strommengen für Erzeugung und Verbrauch zu jedem Zeitpunkt physikalisch ausgeglichen sind. 
 [[x]] Der Bilanzkreisverantwortliche hat dafür zu sorgen, dass die Strommengen auch ggfs. erst im Nachhinein (z.B. am Folgetag) innerhalb seines Bilanzkreises ausgeglichen sind.
 [[ ]] Bilanzkreise werden gänzlich virtuell und ohne jeden Bezug zur Netzinfrastruktur definiert.
+
+## Impressum
+
+![](img/logoblock.png)
+
+**Titel:**	Einführung in die Energieinformatik - Koordinationsaufgaben
+
+**Autor\*in:**	Prof. Dr. Astrid Nieße
+
+**Herausgeber:**	Carl von Ossietzky Universität Oldenburg, [C3L – Center für lebenslanges Lernen](www.uol.de/c3l)
+
+**Copyright:**	CC-BY 4.0
+
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 Lizenz. Ausgenommen von dieser Lizenz sind Organisationslogos und falls gekennzeichnet einzelne Abbildungen oder sonstiges Drittmaterial sowie Bilder, auf denen Personen gezeigt werden.
+
+**Zitierhinweis:**	Nieße, A. (2023): Einführung in die Energieinformatik - Koordinationsaufgaben. Carl von Ossietzky Universität Oldenburg, abrufbar unter www.twillo.de 

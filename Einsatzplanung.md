@@ -18,6 +18,8 @@ icon:   img/uol_logo.png
 
 # Einsatzplanung
 
+![](img/logoblock.png)
+
 **Lernziele**
 
 Nach Bearbeitung dieses Lernobjekts...
@@ -84,3 +86,18 @@ Wie im Lernobjekt "Energiemärkte" unter dem Thema "Regelleistungsmärkte" darge
 - Wooldridge, M. J. (1995). Intelligent agents: theory and practice. 
 
 
+## Impressum
+
+![](img/logoblock.png)
+
+**Titel:**	Einführung in die Energieinformatik - Einsatzplanung
+
+**Autor\*in:**	Prof. Dr. Astrid Nieße
+
+**Herausgeber:**	Carl von Ossietzky Universität Oldenburg, [C3L – Center für lebenslanges Lernen](www.uol.de/c3l)
+
+**Copyright:**	CC-BY 4.0
+
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 Lizenz. Ausgenommen von dieser Lizenz sind Organisationslogos und falls gekennzeichnet einzelne Abbildungen oder sonstiges Drittmaterial sowie Bilder, auf denen Personen gezeigt werden.
+
+**Zitierhinweis:**	Nieße, A. (2023): Einführung in die Energieinformatik - Einsatzplanung. Carl von Ossietzky Universität Oldenburg, abrufbar unter www.twillo.de 

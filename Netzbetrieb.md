@@ -18,6 +18,8 @@ icon:   img/uol_logo.png
 
 # Netzbetrieb
 
+![](img/logoblock.png)
+
 **Lernziele**
 
 Nach Bearbeitung dieses Lernobjekts... 
@@ -87,3 +89,20 @@ Hinweis: Die Regelungen in diesem Bereich unterliegen einem stetigen Wandel: Mit
 - [statista. (17. 06 2022). Stromerzeugung aus Erneuerbaren Energien bis 2021.](https://de.statista.com/statistik/daten/studie/1807/umfrage/erneuerbare-energien-anteil-der-energiebereitstellung-seit-1991/)
 
 - [enercity Netz. (04. 05 2023). Ergänzungen zur VDE-AR-N 4105](https://www.enercity-netz.de/)
+
+
+## Impressum
+
+![](img/logoblock.png)
+
+**Titel:**	Einführung in die Energieinformatik - Netzbetrieb
+
+**Autor\*in:**	Prof. Dr. Astrid Nieße
+
+**Herausgeber:**	Carl von Ossietzky Universität Oldenburg, [C3L – Center für lebenslanges Lernen](www.uol.de/c3l)
+
+**Copyright:**	CC-BY 4.0
+
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 Lizenz. Ausgenommen von dieser Lizenz sind Organisationslogos und falls gekennzeichnet einzelne Abbildungen oder sonstiges Drittmaterial sowie Bilder, auf denen Personen gezeigt werden.
+
+**Zitierhinweis:**	Nieße, A. (2023): Einführung in die Energieinformatik - Netzbetrieb. Carl von Ossietzky Universität Oldenburg, abrufbar unter www.twillo.de 

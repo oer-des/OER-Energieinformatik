@@ -18,6 +18,8 @@ icon:   img/uol_logo.png
 
 # Inhaltsüberblick zur Vorlesung Einführung in die Energieinformatik
 
+![](img/logoblock.png)
+
 **Lernziele:** 
 Dieses Lernobjekt soll die Bedeutung der Energieinformatik als Forschungsfeld motivieren. Nach der Bearbeitung dieses Lernobjektes...
 
@@ -258,3 +260,18 @@ https://energy.acm.org/
 https://fg-wi-eins.gi.de/themengebiete/
 
 
+## Impressum
+
+![](img/logoblock.png)
+
+**Titel:**	Einführung in die Energieinformatik - Inhaltsüberblick
+
+**Autor\*in:**	Prof. Dr. Astrid Nieße
+
+**Herausgeber:**	Carl von Ossietzky Universität Oldenburg, [C3L – Center für lebenslanges Lernen](www.uol.de/c3l)
+
+**Copyright:**	CC-BY 4.0
+
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung 4.0 Lizenz. Ausgenommen von dieser Lizenz sind Organisationslogos und falls gekennzeichnet einzelne Abbildungen oder sonstiges Drittmaterial sowie Bilder, auf denen Personen gezeigt werden.
+
+**Zitierhinweis:**	Nieße, A. (2023): Einführung in die Energieinformatik - Inhaltsüberblick. Carl von Ossietzky Universität Oldenburg, abrufbar unter www.twillo.de 
