@@ -21,7 +21,7 @@ icon:   img/uol_logo.png
 ![](img/logoblock.png)
 
 **Lernziele:** 
-Dieses Lernobjekt soll die Bedeutung der Energieinformatik als Forschungsfeld motivieren. Nach der Bearbeitung dieses Lernobjektes...
+Dieses Lernobjekt soll die Bedeutung der Energieinformatik als Forschungsfeld verdeutlichen. Nach der Bearbeitung dieses Lernobjektes...
 
 
 - haben Sie einen Überblick über die Inhalte der Vorlesung
