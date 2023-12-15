@@ -25,8 +25,8 @@ icon:   img/uol_logo.png
 Nach Bearbeitung dieses Lernobjekts...
 
 - kennen Sie die Gründe für und Verfahren der Kraftwerksplanung und Flexibilisierung der Erzeugungsseite
-- sind Ihnen  die Probleme der Einsatzplanung bekannt und können Sie können sie algorithmisch einordnen. Insbesondere können Sie den Unterschied zwischen Unit Commitment und Economic Dispatch erläutern
-- verstehen Sie das Konzept Virtueller Kraftwerke (VK) und können ihre Entstehung motivieren sowie den Status Quo in der Praxis darstellen.
+- sind Ihnen  die Probleme der Einsatzplanung bekannt und Sie können sie algorithmisch einordnen. Insbesondere können Sie den Unterschied zwischen Unit Commitment und Economic Dispatch erläutern
+- verstehen Sie das Konzept Virtueller Kraftwerke (VK) und können ihre Entstehung erläutern sowie den Status Quo in der Praxis darstellen.
 
 
 ## Netzstabilisierung
