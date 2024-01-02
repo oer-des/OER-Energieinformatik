@@ -45,7 +45,7 @@ Demand Side Management umfasst alle Maßnahmen, die zu einer Anpassung des Energ
 
 ![](img/DemandSideManagement/DSMMotivation.jpg "Abbildung 2: Beispiele für die Anpassung von Lasten (eigene Darstellung).")
 
-In Abbildung 2 ist zu sehen, dass es verschiedene Methoden mit sehr unterschiedlichen Ansätzen gibt. Zur Kategorisierung können die im folgenden Kapitel vorgestellten Taxonomien genutzt werden.
+In Abbildung 2 ist zu sehen, dass es verschiedene Methoden mit sehr unterschiedlichen Ansätzen gibt. Zur Kategorisierung können die im folgenden Kapitel (Typen des DSM) vorgestellten Taxonomien genutzt werden.
 
 ### Last als Freiheitsgrad = Flexibilität in Energiesystemen
 
@@ -83,7 +83,7 @@ Es gibt unterschiedliche Taxonomien für DSM. Im Rahmen dieser Lernmaterialien w
 
 **Energieeffizienz – energy leaks**
 
-Zur Steuerung der Energieeffizienz und die Detektion von Energie-Leaks ist eine Einsicht in die entsprechenden Prozesse wesentlich. Häufige Energy-Leaks sind z.B. Druckluft-Leckagen, Filterverunreinigungen oder defekte Bauteile.
+Zur Steuerung der Energieeffizienz und zur Detektion von Energie-Leaks ist eine Einsicht in die entsprechenden Prozesse wesentlich. Häufige Energy-Leaks sind z.B. Druckluft-Leckagen, Filterverunreinigungen oder defekte Bauteile.
 
 Abbildung 4 zeigt beispielsweise den Filter eines Kondenstrockners, der aufgrund eines Defektes verschmutzt ist. Dies führt im Betrieb zu einer schlechten Energieeffizienz. Im industriellen Umfeld gibt es ähnliche Beispiele.
 
@@ -97,7 +97,7 @@ Wenn man die Basislast (baseline) mit der Spitzenlast vergleicht, kann eine hohe
 
 Zeitabhängige Tarife stellen ein etabliertes Mittel zum Lastmanagement dar. Es gibt eine Doppeltarifzählung mit HT (Hoch-/Haupttarif) und NT (Nieder-/Nachttarif). Die technische Umsetzung (ohne Smart Metering) erfolgt durch zwei separate Rollenzählwerke (siehe Abbildung 5), die zu den im Stromzähler festgelegten Zeiten (eichrelevant) umspringen. Aufgrund der Beschränkung durch die Hardware  gibt es keinen natürlichen technologischen Entwicklungspfad von statischen ToU zu dynamischen Tarifen.  Dynamische Tarife werden erst mit Smart Metering möglich. HT/NT ist ein Relikt aus der Vor-Unbundlingzeit[^1] und funktioniert nur mit einer Vereinbarung zwischen Netzbetreiber und Lieferant.
 
-Die ToU-Tarife sind in Deutschland im Zähler hinterlegt. Eine Änderung erfordert einen Tarifwechseln (vertragsrelevant) sowie eine Anpassung der Hardware. Konfigurierte Stromzähler dürfen nicht vor Ort umkonfiguriert werden!
+Die ToU-Tarife sind in Deutschland im Zähler hinterlegt. Eine Änderung erfordert einen Tarifwechsel (vertragsrelevant) sowie eine Anpassung der Hardware. Konfigurierte Stromzähler dürfen nicht vor Ort umkonfiguriert werden!
 
 Zeitabhängige Tarife bilden also ein statisches Modell der Lastdynamisierung mit guten Effekten bzgl. einer allgemeinen Anpassung von Standardlasten.
 
