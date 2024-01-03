@@ -236,7 +236,7 @@ Die Energieinformatik spezialisiert diesen Bedarf nach einer theoretischen Grund
 >
 > -	[ACM: Association of Computing Machinery – SIGEnergy (SIG: special interest group)](https://energy.acm.org/) 
 >
-> -	[Gesellschaft für Informatik, Fachgruppe Energieinformationssysteme](https://fg-wi-eins.gi.de/themengebiete/)
+> -	[Gesellschaft für Informatik, Fachgruppe Energieinformatik](https://fg-wi-eins.gi.de)
 
 
 ## Weiterführende Quellen im Internet zur Energieversorgung 
