@@ -40,7 +40,7 @@ Eine wichtige SDL ist die Frequenzhaltung, die eng mit der Regelleistung in Verb
 
 ### Frequenzhaltung
 
-Die Netzfrequenz ändert sich, wenn die Leistungsbilanz im elektrischen Netz nicht ausgeglichen ist, somit entweder mehr Strom erzeugt als verbraucht oder mehr verbraucht als erzeugt wird. Die Netzfrequenz ist ein schnell reagierender Wert. Eine feste Netzfrequenz ist für eine qualitativ hochwertige Versorgung mit elektrischer Energie sehr wichtig. Die aktuelle Netzfrequenz kann man im Internet nachverfolgen: [Netzfrequenzmessung](www.netzfrequenzmessung.de). 
+Die Netzfrequenz ändert sich, wenn die Leistungsbilanz im elektrischen Netz nicht ausgeglichen ist, somit entweder mehr Strom erzeugt als verbraucht oder mehr verbraucht als erzeugt wird. Die Netzfrequenz ist ein schnell reagierender Wert. Eine feste Netzfrequenz ist für eine qualitativ hochwertige Versorgung mit elektrischer Energie sehr wichtig. Die aktuelle Netzfrequenz kann man im Internet nachverfolgen: [Netzfrequenzmessung](https://www.netzfrequenzmessung.de/). 
 
 ![Regelbereiche](img/Koordinationsaufgaben/Regelbereiche.png "Abbildung 1: Die verschiedenen Regelbereiche (Darstellung: Sebastian Lehnhoff).")
  
