@@ -112,7 +112,7 @@ Wie bereits in „Koordinationsaufgaben“ dargestellt, gibt es verschiedene Art
 ![](img/Energiemaerkte/Regelleistungsauktionen.png "Abbildung 5: Übersicht über die verschiedenen Regelleistungsauktionen basierend auf Darstellung von [Next Kraftwerke GmbH, 2023](https://www.next-kraftwerke.de/wissen)")
 
  
-![](img/Energiemaerkte/Regelenergieauktionen.png "Abbildung 6: Übersicht über die verschiedenen Regelenergieauktionen basierend nach Anpassungen der europäischen Regelleistungsmärkte in den Jahren 2020-2022. Darstellung basierend auf Daten von [regelleistung.net](www.regelleistung.net)")
+![](img/Energiemaerkte/Regelenergieauktionen.png "Abbildung 6: Übersicht über die verschiedenen Regelenergieauktionen nach Anpassungen der europäischen Regelleistungsmärkte in den Jahren 2020-2022. Darstellung basierend auf Daten von [regelleistung.net](www.regelleistung.net)")
 
 ### Frequency Containment Reserve (Primärreserve)
 Frequency Containment Reserve (FCR; Primärreserve oder auch Primärregelleistung) wird täglich für den Folgetag ausgeschrieben und Gebote müssen bis 8 Uhr eingegangen sein. Jedes Angebot unterliegt der Voraussetzung, dass der Bieter präqualifiziert ist (sich bereits vorher einer Eignungsprüfung unterzogen hat) und einen Rahmenvertrag mit dem ÜNB hat. Das Mindestangebot an Leistung muss +/-1 MW betragen. Dabei muss Leistung immer symmetrisch, d.h. als positive und negative Regelleistung, angeboten werden. Das Angebot besteht aus einer angebotenen Menge und dem entsprechenden Leistungspreis. 
