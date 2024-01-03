@@ -46,7 +46,8 @@ Unit Commitment kann als Rucksack-Problem modelliert werden. Dabei gilt es, aus 
 
 ## Virtuelle Kraftwerke
 
-### Entwicklung der virtuellen Kraftwerke
+**Entwicklung der virtuellen Kraftwerke**
+
 Markteintrittsbarrieren verhinderten eine lange Zeit die direkte Integration dezentraler Energieanlagen in die Energiemärkte. Zur Lösung dieses Problems wurde der Ansatz entwickelt, mehrere kleine Anlagen zu größeren nach dem Prinzip „Watt zu Kilo-Watt“ zu bündeln (aggregieren). In frühen Ansätzen ging es um die reine Bündelung von Erzeugungsanlagen. Dabei traten allerdings u.a. Probleme mit Prognosefehlern und der Stochastik in der Einspeisung auf. Weiterhin wurde mit fortschreitender Energiewende das Potential einer Lastanpassung, d.h. einer Flexibilisierung auch auf Lastseite, für einen fortschreitenden Paradigmenwechsel vom Lastfolgebetrieb hin zu – in Teilen – einem „Erzeugungsfolgebetrieb“ erkannt. 
 
 In Abbildung 2 wird konzeptuell das Prinzip eines virtuellen Kraftwerks dargestellt. Neben klassischen Verbrauchern (z.B. Heizung) und Erzeugern (z.B. Windenergieanlagen), kommen auch so genannte Prosumer dazu, die sowohl Erzeuger (Producer) als auch Verbraucher (Consumer) sein können, zum Beispiel Haushalte, die eine eigene Solaranlage haben.
