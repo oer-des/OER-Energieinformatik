@@ -124,7 +124,7 @@ Eine wichtige Unterscheidung besteht in der Ausrichtung der Systeme bzgl. ihrer 
 ### Beispiel: Dynamic Virtual Power Plants
 Es folgt ein Anwendungsbeispiel aus der Forschung. Im Forschungsverbund Smart Nord, der durch das Land Niedersachsen gefördert wurde und an dem verschiedene niedersächsische Hochschulen beteiligt waren, wurde u.a. das Konzept dynamischer Virtueller Kraftwerke (englisch: dynamic virtual power plants, DVPP) vorgestellt und erforscht. 
 
-Kern des Konzeptes der dynamischen Virtuellen Kraftwerke ist es, dass Energieanlagen spezifisch für ein Produkt gebündelt werden (siehe Abbildung 4). Damit besteht der Verbund von Anlagen innerhalb eines DVPP nur bis zum Ende der Lieferung des kontrahierten Produktes und zerfällt anschließend. Die Zuordnung zu einem Verbund ist somit nur temporär. Die Umsetzung des Konzeptes erfolgt mittels Agenten.
+Kern des Konzeptes der dynamischen Virtuellen Kraftwerke ist es, dass Energieanlagen spezifisch für ein Produkt (P) gebündelt werden (siehe Abbildung 4). Damit besteht der Verbund von Anlagen innerhalb eines DVPP nur bis zum Ende der Lieferung des kontrahierten Produktes und zerfällt anschließend. Die Zuordnung zu einem Verbund ist somit nur temporär. Die Umsetzung des Konzeptes erfolgt mittels Agenten.
 
 Im Rahmen der Arbeiten zum DVPP wurden u.a. die folgenden drei Themen bearbeitet: 
 
