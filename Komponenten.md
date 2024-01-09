@@ -34,7 +34,9 @@ Nach Bearbeitung dieses Lernobjekts...
 
 ## Transformation im Stromnetz
 
-Vor der Ausbreitung regenerativer Kleinerzeugungsanlagen wurden vor allem große thermische Kraftwerke zur Netzstabilisierung genutzt, während an die Verteilnetze im wesentlichen nur Lasten angeschlossen waren. Daher floss damals der Strom vor allem von den Hoch- und Höchstspannungsebenen zur Verteilnetzebene. Heute und in der Zukunft gibt es weniger große thermische Kraftwerke und dafür mehr kleine und Umrichter-gekoppelte Anlagen. Auch kehrt sich der Stromfluss zu manchen Zeiten um und fließt dann aus der Verteilnetzebene in die höheren Ebenen. Der Stromfluss wird also zunehmend bidirektional.
+Vor der Ausbreitung regenerativer Kleinerzeugungsanlagen wurden vor allem große thermische Kraftwerke zur Netzstabilisierung genutzt, während an die Verteilnetze im wesentlichen nur Lasten angeschlossen waren. Daher floss damals der Strom vor allem von den Hoch- und Höchstspannungsebenen zur Verteilnetzebene. Heute und in der Zukunft gibt es weniger große thermische Kraftwerke und dafür mehr kleine und Umrichter-gekoppelte[^1] Anlagen. Auch kehrt sich der Stromfluss zu manchen Zeiten um und fließt dann aus der Verteilnetzebene in die höheren Ebenen. Der Stromfluss wird also zunehmend bidirektional.
+
+[^1]: Umrichter werden verwendet, um Wechsel- oder Drehstrom in Wechsel- oder Drehstrom einer anderen Frequenz umzuwandeln. Dies ist notwendig, wenn Erzeuger, wie beispielsweise moderne Windenergieanlagen, Strom mit einer anderen Frequenz erzeugen, welcher in das allgemeine Stromnetz eingespeist wird.   
 
 ## Erneuerbare Energieträger 
 Der Ausbau der erneuerbaren Energien ist eine zentrale Säule der Energiewende. Wind- und Sonnenenergie sind - bezogen auf ihre Einspeisung - die wichtigsten erneuerbaren Energieträger. Darüber hinaus leisten Biomasse und Wasserkraft wertvolle Beiträge zu einer nachhaltigen Energieversorgung ([Bundesministerium für Wirtschaft und Klimaschutz](https://www.bmwk.de/Redaktion/DE/Dossier/erneuerbare-energien.html))
