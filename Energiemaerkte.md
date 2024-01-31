@@ -85,6 +85,10 @@ Der Wirkleistungshandel teilt sich in den Day-Ahead Markt und den Intraday Markt
 ![](img/Energiemaerkte/kurzfristigerWirkleistungshandel.png "Abbildung 3: Übersicht über den kurzfristigen Wirkleistungshandel basierend auf Darstellung von [Next Kraftwerke GmbH, 2023](https://www.next-kraftwerke.de/wissen).")
 
 Das Verfahren des Market-Clearing-Price kommt bei beiden Märkten zur Anwendung. Dabei werden sämtliche Stromangebote entsprechend ihres Preises wie in Abbildung 4 aufgereiht. Der resultierende Preis ist nun der Punkt, an dem der Bedarf gedeckt ist. Die Kosten des Kraftwerks, das die letzte MWh produziert, werden als Grenzkosten bezeichnet. Es bekommen nun alle genutzten Kraftwerke den selben Preis per MWh wie das Grenzkraftwerk. 
+
+> Mehr Informationen über Merit Order:
+> 
+> [Next-Kraftwerke](https://www.next-kraftwerke.de/wissen/merit-order)
  
 ![](img/Energiemaerkte/meritorder.png "Abbildung 4: Merit Order (eigene Darstellung)")
 
