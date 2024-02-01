@@ -48,7 +48,7 @@ Unit Commitment kann als Rucksack-Problem modelliert werden. Dabei gilt es, aus 
 
 **Entwicklung der virtuellen Kraftwerke**
 
-Markteintrittsbarrieren verhinderten eine lange Zeit die direkte Integration dezentraler Energieanlagen in die Energiemärkte. Zur Lösung dieses Problems wurde der Ansatz entwickelt, mehrere kleine Anlagen zu größeren nach dem Prinzip „Watt zu Kilo-Watt“ zu bündeln (aggregieren). In frühen Ansätzen ging es um die reine Bündelung von Erzeugungsanlagen. Dabei traten allerdings u.a. Probleme mit Prognosefehlern und der Stochastik in der Einspeisung auf. Weiterhin wurde mit fortschreitender Energiewende das Potential einer Lastanpassung, d.h. einer Flexibilisierung auch auf Lastseite, für einen fortschreitenden Paradigmenwechsel vom Lastfolgebetrieb hin zu – in Teilen – einem „Erzeugungsfolgebetrieb“ erkannt. 
+Markteintrittsbarrieren verhinderten eine lange Zeit die direkte Integration dezentraler Energieanlagen in die Energiemärkte. Zur Lösung dieses Problems wurde der Ansatz entwickelt, mehrere kleine Anlagen zu größeren nach dem Prinzip „Watt zu Kilo-Watt“ zu bündeln (aggregieren). In frühen Ansätzen ging es um die reine Bündelung von Erzeugungsanlagen. Dabei traten allerdings u.a. Probleme mit Prognosefehlern und der Stochastik in der Einspeisung[^1] auf. Weiterhin wurde mit fortschreitender Energiewende das Potential einer Lastanpassung, d.h. einer Flexibilisierung auch auf Lastseite, für einen fortschreitenden Paradigmenwechsel vom Lastfolgebetrieb hin zu – in Teilen – einem „Erzeugungsfolgebetrieb“ erkannt. 
 
 In Abbildung 2 wird konzeptuell das Prinzip eines virtuellen Kraftwerks dargestellt. Neben klassischen Verbrauchern (z.B. Heizung) und Erzeugern (z.B. Windenergieanlagen), kommen auch so genannte Prosumer dazu, die sowohl Erzeuger (Producer) als auch Verbraucher (Consumer) sein können, zum Beispiel Haushalte, die eine eigene Solaranlage haben.
 
@@ -71,6 +71,8 @@ Zwei grundlegende Paradigmen in der Zusammensetzung des Anlagenpools und in der 
 Grundsätzlich ist festzustellen, dass mittlerweile die Konzepte Virtueller Kraftwerke und die Methoden des Demand Side Managements sowie die regionaler Märkte deutlich konvergieren und anwendungsspezifische Ausprägungen entstehen, die teilweise spezifisch Aspekte der sicheren Netzbetriebs abbilden. So wurden neben hoch dynamisierten Ansätzen bereits früh auch auktionsbasierte Verfahren vorgestellt und Ansätze unter Berücksichtigung von Netzrestriktionen und Netztopologien entwickelt. Während rein bilanzielle Virtuelle Kraftwerke Bestandteil der energiewirtschaftlichen Praxis darstellen, sind unterschiedliche Konzepte zur Umsetzung von mehr Wettbewerb im Bereich der netzdienlichen oder netzberücksichtigenden Betriebsführung dezentraler Energieanlagen noch aktueller Gegenstand der Forschung, und dienen teils auch als reduzierte Anwendungsbeispiele z.B. im Kontext spieltheoretischer Arbeiten.
 
 Wie im Lernobjekt "Energiemärkte" unter dem Thema "Regelleistungsmärkte" dargestellt, müssen sämtliche Kraftwerke, die zur Erbringung von Primärregelleistung eingesetzt werden sollen, präqualifiziert werden. Für virtuelle Kraftwerke ergeben sich wegen der möglichen räumlichen Verteiltheit besondere Anforderungen, die in beständig aktualisierten Regularien beachtet werden.
+
+[^1]: d.h. die Erzeugung kann nicht genau, sondern nur anhand von Wahrscheinlichkeiten vorhergesagt werden
 
 
 ## Literaturverzeichnis
