@@ -35,11 +35,13 @@ Nach Bearbeitung dieses Lernobjekts...
 
 Konventionell erfolgte die Versorgung mit elektrischem Strom im Lastfolgebetrieb: die Erzeugung folgte der Last. Mit der erforderlichen Flexibilisierung dieser Betriebsweise, die sich aus der zunehmenden Versorgung mit stochastischen Erzeugern[^1] ergibt, werden typischerweise elektrische Batteriespeicher verbunden. Eine gewünschte Alternative zum Ausbau der Erzeugung und der Bereitstellung von Speichern ist die Anpassung von Lasten. Damit kann bei entsprechender Steuerung unter Berücksichtigung von Netzzuständen auch ein Netzausbau vermieden werden.
 
+> Demand Side Management umfasst alle Maßnahmen, die zu einer Anpassung des Energiesystems auf der Seite der Lasten führen.
+
 ![](img/DemandSideManagement/Netzfrequenzwaage.png "Abbildung 1: Sind Last und Erzeugung nicht ausgeglichen, verändert sich die Netzfrequenz (eigene Darstellung).")
 
 *Ist die Leistungsbilanz nicht ausgeglichen, verändert das die Netzfrequenz (siehe Abbildung 1). Frequenzhaltung oder -stabilität ist eine Anforderung an eine qualitativ hochwertige Versorgung mit elektrischer Energie.  Frequenzhaltung muss  gewährleistet werden – das ist technisch umgesetzt durch Frequency Containment Reserve (FCR) und automatic Frequency Restoration Reserve (aFRR),  genaue Erklärungen sind in den Lernobjekten "Komponenten" und "Koordinationsaufgaben" zu finden.*
 
-Demand Side Management umfasst alle Maßnahmen, die zu einer Anpassung des Energiesystems auf der Seite der Lasten führen.
+
 
 [^1]: d.h. die Erzeugung kann nicht genau, sondern nur anhand von Wahrscheinlichkeiten vorhergesagt werden
 
