@@ -80,6 +80,9 @@ Der sogenannte Stromkrieg trägt die Charakteristika eines typischen Formatkrieg
 
 <iframe src="https://wp.uni-oldenburg.de/oer-fuer-die-energieinformatik-sose2023/wp-admin/admin-ajax.php?action=h5p_embed&id=4" width="100%" height="840" frameborder="0" allowfullscreen="allowfullscreen" title=""></iframe>
 
+
+### Was ist eine kWh? 
+
 Energie wird häufig durch E (u.a. bei elektrischer Energie), W (u.a. bei mechanischer Energie) oder durch Q (Wärme) gekennzeichnet. 
 
 Die typische Maßeinheit für Energie ist das Joule (J). Elektrische Energie wird häufig auch in Kilowattstunden (kWh) angegeben:
@@ -89,8 +92,6 @@ Die typische Maßeinheit für Energie ist das Joule (J). Elektrische Energie wir
 Aus historischen Gründen ist es in der Energieversorgung auch üblich Energie in Megatonnen Öleinheiten (MTÖE) oder in Steinkohleeinheiten (SKE) anzugeben: 
 
 1 SKE = 8, 14 kWh
-
-### Was ist eine kWh? 
 
 **Quiz:** Was entspricht einer kWh?
 
@@ -109,6 +110,10 @@ Die Leistung wird in Watt (W) gemessen. Beim elektrischen Strom berechnet sich d
 $$ P = U ∗ I $$
 
 Dabei bezeichnet U die Spannung in Volt (V) und I den Strom in Ampere (A).
+
+> Mehr Details zu elektrischer Arbeit und Leistung:
+>
+> [LEIFIphysik](https://www.leifiphysik.de/elektrizitaetslehre/elektrische-arbeit-und-leistung/grundwissen/elektrische-arbeit-und-leistung)
 
 ### Effizienz und Wirkungsgrad
 Der 2. Hauptsatz der Thermodynamik sagt:
