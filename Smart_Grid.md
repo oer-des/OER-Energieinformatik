@@ -111,10 +111,12 @@ Die Eigenschaften von Agenten als autonome Software nach [Russel, 2010](#literat
 
 **Proaktivität:** Agenten sind in der Lage ohne äußeren Trigger Aktivitäten vorzunehmen. 
 
-Je nach Eigenschaften werden unterschiedliche Typen von Agenten unterschieden, so werden z.B. Agenten, die autonom, sozial und reaktiv sind, als **reflexiv** bezeichnet. **Deliberative** Agenten zeichnen sich dadurch aus, dass sie zusätzlich kognitive Fähigkeiten aufweisen und proaktiv handeln können.
+Je nach Eigenschaften werden unterschiedliche Typen von Agenten unterschieden, so werden z.B. Agenten, die autonom, sozial und reaktiv sind, als **reflexiv** bezeichnet. **Deliberative** Agenten zeichnen sich dadurch aus, dass sie zusätzlich kognitive Fähigkeiten aufweisen und proaktiv handeln können. Sie verfügen über einen inneren Zustand und ein Gedächtnis, das es ihnen ermöglicht, auf der Grundlage ihrer Ziele und Überzeugungen zu planen und Entscheidungen zu treffen.
 
 ### Agentensysteme
 Agentensysteme können aus reflexiven und/oder deliberativen Agenten bestehen. In Agentensystemen erfolgt die Kommunikation in einer definierten Sprache. Es gibt diverse Frameworks in verschiedenen Programmiersprachen mit unterschiedlichen Eigenschaften. 
+
+Die Wahl der Struktur in einem Multiagentensystem hängt von den spezifischen Anforderungen des Systems ab, zu denen die Merkmale der Agenten, ihre Ziele und die Umgebung, in der sie tätig sind, gehören. Darüber hinaus muss der Auswahlprozess die Koordinationsmechanismen berücksichtigen, die ihre Interaktionen und Abhängigkeiten verwalten. Es ist entscheidend, diese Faktoren bei der Gestaltung oder Auswahl einer Organisationsstruktur für ein Agentensystem zu berücksichtigen, um die Wirksamkeit und Effizienz des Systems zu gewährleisten.
 
 Eine wichtige Unterscheidung besteht in der Ausrichtung der Systeme bzgl. ihrer Anwendung:
 
